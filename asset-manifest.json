@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//BermetUson.github.io/my-react-deploy-app/static/css/main.073c9b0a.css",
+    "main.js": "//BermetUson.github.io/my-react-deploy-app/static/js/main.4e609d3f.js",
+    "static/js/787.f1d82c94.chunk.js": "//BermetUson.github.io/my-react-deploy-app/static/js/787.f1d82c94.chunk.js",
+    "index.html": "//BermetUson.github.io/my-react-deploy-app/index.html",
+    "main.073c9b0a.css.map": "//BermetUson.github.io/my-react-deploy-app/static/css/main.073c9b0a.css.map",
+    "main.4e609d3f.js.map": "//BermetUson.github.io/my-react-deploy-app/static/js/main.4e609d3f.js.map",
+    "787.f1d82c94.chunk.js.map": "//BermetUson.github.io/my-react-deploy-app/static/js/787.f1d82c94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4e609d3f.js"
+  ]
+}
